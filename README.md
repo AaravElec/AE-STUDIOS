@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome To AE STUDIOS
 
-You can use the [editor on GitHub](https://github.com/AaravElec/Epic/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This Site Is Created By Aarav Elec By Ding Html
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Site Is Epic We Sell Images On Image Bro And Aarav Elec Is The Captain Of Aelecs Esports Team
 
-### Markdown
+### About Aarav Elec
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This Site Is Made To Tell The Most Epic Zoom Meetings Server AE STUDIOS
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# HTML EVERYWHERE " BY AARAV ELEC SHORTCUTS "
+## GAMING EVERYWHERE " BY AARAV ELEC "
+### ZOOM MEET EVERYWHERE " BY AE STUDIOS "
 
 - Bulleted
 - List
@@ -28,10 +27,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Epic Pages By AE STUDIOS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AaravElec/Epic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+OP [Epic Site](https://github.com/AaravElec/Epic/). The naThis Epic Site Is Created On Github `_config.yml` File
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+aaravelec@aelecesports.uu.me
