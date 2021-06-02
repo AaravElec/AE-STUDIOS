@@ -8,7 +8,7 @@ This Site Is Epic We Sell Images On Image Bro And Aarav Elec Is The Captain Of A
 
 This Site Is Made To Tell The Most Epic Zoom Meetings Server AE STUDIOS
 ```markdown
-Syntax highlighted code block
+Everywhere Amazing Things
 
 # HTML EVERYWHERE " BY AARAV ELEC SHORTCUTS "
 ## GAMING EVERYWHERE " BY AARAV ELEC "
@@ -22,10 +22,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[GitHub Page](https://github.com/AaravElec/Epic/)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Epic Pages By AE STUDIOS
 
@@ -34,3 +33,6 @@ OP [Epic Site](https://github.com/AaravElec/Epic/). The naThis Epic Site Is Crea
 ### Support or Contact
 
 aaravelec@aelecesports.uu.me
+aaravelec@Imagebro.uu.me
+aaravelec@youtubers.uu.me
+support@aosofficial.uu.me
