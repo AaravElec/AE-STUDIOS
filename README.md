@@ -14,14 +14,6 @@ Everywhere Amazing Things
 ## GAMING EVERYWHERE " BY AARAV ELEC "
 ### ZOOM MEET EVERYWHERE " BY AE STUDIOS "
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [GitHub Page](https://github.com/AaravElec/Epic/)
 ```
 
@@ -49,3 +41,22 @@ Team Name : Aelecs Esports
 ### Youtube:
 
 Aarav Elec
+
+### AOS Inc.
+AOS Is An Operating System By Aelecs Esports Created By Aarav Elec
+
+Aos Is Now Working On AoS 5.0.0
+
+```markdown
+### Aarav Elec
+Aarav Elec Is A Gaming Youtuber 
+
+He Is The Manager Of AE-STUDIOS And The Captain Of Aelecs Esports And Even The Founer & CEO Of Aos Inc.
+
+```
+
+### HTML
+AOS IS CREATED USING BAT
+AND THIS SITE USING HTML
+HTML IS A PROGRAMMING LANGUAGE TO CREATE WEBSITES
+BAT IS A PROGRAMMING LAGUAGE ALSO KNOWN AS cmd
