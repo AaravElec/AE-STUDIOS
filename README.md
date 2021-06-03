@@ -92,4 +92,5 @@ We Want 100 People AE STUIOS AS SOON AS POSSIBLE SO JOIN TODAY
 ```
 
 
-![FinalLogo](https://user-images.githubusercontent.com/78690660/120583784-78e89880-c44c-11eb-8671-da2c89bc8d9e.jpg)
+![AE](https://user-images.githubusercontent.com/78690660/120584467-ad108900-c44d-11eb-9d8c-196286690b13.gif)
+
